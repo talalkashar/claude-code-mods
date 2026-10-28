@@ -1,0 +1,9 @@
+{
+  "name": "session-bridge",
+  "version": "0.1.0",
+  "description": "Pass a plan from one Claude Code session to another with /handoff, and send updates back",
+  "license": "MIT",
+  "author": {
+    "name": "Talal Kashar"
+  }
+}

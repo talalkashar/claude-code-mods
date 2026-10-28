@@ -1,0 +1,10 @@
+{
+  "name": "agent-board",
+  "version": "0.1.0",
+  "description": "A live pane showing what each subagent is working on",
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Talal Kashar"
+  }
+}

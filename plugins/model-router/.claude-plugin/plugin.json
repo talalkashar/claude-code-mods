@@ -1,0 +1,9 @@
+{
+  "name": "model-router",
+  "version": "0.1.0",
+  "description": "Routes each subagent to the right model tier: cheap models for search, Opus for real work, never Fable",
+  "license": "MIT",
+  "author": {
+    "name": "Talal Kashar"
+  }
+}

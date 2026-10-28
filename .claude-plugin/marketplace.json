@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-mods",
+  "owner": { "name": "Talal Kashar" },
+  "plugins": [
+    { "name": "agent-board", "source": "./plugins/agent-board", "description": "A live pane showing what each subagent is working on" },
+    { "name": "model-router", "source": "./plugins/model-router", "description": "Routes each subagent to a model tier: Haiku for search, Opus for real work" },
+    { "name": "session-bridge", "source": "./plugins/session-bridge", "description": "Pass a plan between your Claude Code sessions with /handoff" }
+  ]
+}
